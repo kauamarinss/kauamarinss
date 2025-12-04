@@ -14,17 +14,9 @@ Cientista de Dados em formação, com foco em análise, engenharia de dados e pr
 
 - Python: Pandas, NumPy, Matplotlib  
 - SQL: MySQL, PostgreSQL, SQL Server  
-- Visualização: Power BI  
-- Cloud: Azure (iniciante)  
+- DataViz: Power BI  
+- Cloud: AWS, Azure (iniciante)  
 - Git e GitHub  
-
----
-
-## 📊 Projetos
-- **Análise de rotatividade de funcionários**
-- https://medium.com/@kauamarins/people-analytics-estudo-visando-diminuir-turnover-de-colaboradores-de-uma-empresa-e4f254cee192
-- **Dashboard de vendas — Power BI**  
-- **ETL com Python e SQL**  
 
 ---
 
