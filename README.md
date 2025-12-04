@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, Sou o Kauã 👋
 
-<!--
-**kauamarinss/kauamarinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="150" src="URL_DA_SUA_FOTO" />
 
-Here are some ideas to get you started:
+Cientista de Dados em formação, com foco em análise, engenharia de dados e projetos práticos usando Python, SQL e Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de Banco de Dados pela Uniamérica - Descomplica
+- +400h de estudo em Python, SQL e modelos de Machine Learning  
+- Construindo portfólio para processos seletivos de Data/Analytics  
+
+---
+
+## 🧠 Habilidades Técnicas
+
+- Python: Pandas, NumPy, Matplotlib  
+- SQL: MySQL, PostgreSQL, SQL Server  
+- Visualização: Power BI  
+- Cloud: Azure (iniciante)  
+- Git e GitHub  
+
+---
+
+## 📊 Projetos
+- **Análise de rotatividade de funcionários**  
+- **Dashboard de vendas — Power BI**  
+- **ETL com Python e SQL**  
+
+---
+
+## 📫 Contato
+📧 Email: kauamarins@gmail.com  
+💼 LinkedIn: [www.linkedin.com/in/kauã-marins-47a56b23a](https://www.linkedin.com/in/kau%C3%A3-marins-47a56b23a/)
