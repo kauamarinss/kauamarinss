@@ -28,7 +28,7 @@ Profissional com foco em **ciência e análise de dados**, atualmente estou me d
 
 ## 🧰 Tecnologias e Ferramentas
 
-- 🔧 Banco de Dados:
+- 🔧 Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
