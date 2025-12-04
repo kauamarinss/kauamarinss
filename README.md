@@ -3,7 +3,7 @@
 Cientista de Dados em formação, com foco em análise, engenharia de dados e projetos práticos usando Python, SQL e Power BI.
 
 - Estudante de Banco de Dados pela Uniamérica - Descomplica
-- +400h de estudo em Python, SQL e modelos de Machine Learning  
+- Estudo focado em Python, SQL e modelos de Machine Learning  
 - Construindo portfólio para processos seletivos de Data/Analytics  
 
 ---
