@@ -1,7 +1,5 @@
 # Olá, Sou o Kauã 👋
 
-<img align="right" width="150" src="URL_DA_SUA_FOTO" />
-
 Cientista de Dados em formação, com foco em análise, engenharia de dados e projetos práticos usando Python, SQL e Power BI.
 
 - Estudante de Banco de Dados pela Uniamérica - Descomplica
