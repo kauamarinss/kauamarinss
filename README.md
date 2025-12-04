@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Kauã!
 
-Cientista de Dados em formação, com foco em **análise de dados**, **engenharia de dados**, e na construção de **projetos práticos** usando Python, SQL e Power BI.
+Profissional com foco em **ciência e análise de dados**, atualmente estou me desenvolvendo e construindo **projetos práticos** usando Python, SQL e Power BI.
 
 🎓 **Graduando em Banco de Dados** — Uniamérica / Descomplica  
 📚 Estudando Python, SQL, Machine Learning e Cloud  
