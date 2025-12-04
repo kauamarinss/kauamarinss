@@ -21,7 +21,8 @@ Cientista de Dados em formação, com foco em análise, engenharia de dados e pr
 ---
 
 ## 📊 Projetos
-- **Análise de rotatividade de funcionários**  
+- **Análise de rotatividade de funcionários**
+- https://medium.com/@kauamarins/people-analytics-estudo-visando-diminuir-turnover-de-colaboradores-de-uma-empresa-e4f254cee192
 - **Dashboard de vendas — Power BI**  
 - **ETL com Python e SQL**  
 
